@@ -4,7 +4,7 @@ Priority: extra
 Build-Depends: debhelper (>= 5), build-essential, python-dev,
     ruby1.8-dev, autoconf, python-support, automake,
     pkg-config, libtool, bison, flex, libboost-dev | libboost1.40-dev, python-all, python-all-dev,
-    python-all-dbg, ruby, libevent-dev
+    python-all-dbg, ruby, libevent-dev, libglib2.0-dev
 Maintainer: EfficientCloud Technical Staff <support@efficientcloud.com>
 Homepage: http://thrift.apache.org/
 Vcs-Svn: https://svn.apache.org/repos/asf/thrift
