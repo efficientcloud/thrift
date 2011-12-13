@@ -1,8 +1,8 @@
-thrift (0.7.0+efc1) unstable; urgency=low
+thrift (0.7.0+hs1) unstable; urgency=low
 
-  * EfficientCloud release.
+  * HostingStack release.
 
- -- Christian Hofstaedtler <c.hofstaedtler@efficientcloud.com>  Tue, 04 Oct 2011 13:01:59 +0200
+ -- Christian Hofstaedtler <christian@hofstaedtler.name>  Tue, 13 Dec 2011 20:09:23 +0100
 
 thrift (0.7.0) stable; urgency=low
 
